@@ -124,7 +124,7 @@ header-content p {
   background-size: cover;
 }
 .bg-ai {
-  background: url('../img/winstead.jpg') center/cover no-repeat;
+  background: url('../img/ai-bg.jpg') center/cover no-repeat;
   background-color: #02407D;
 }
 .bg-circle {
@@ -132,7 +132,7 @@ header-content p {
   background-color: #151515;
 }
 .bg-blue {
-  background-image: url("../img/blue-bg2.jpg");
+  background-image: url("../img/blue-bg.jpg");
   background-color: #062A5C;
 }
 textarea {
