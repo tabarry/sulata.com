@@ -1,3 +1,34 @@
+/* Space Grotesk Font */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 100;
+  src: local('Space Grotesk Light'), local('SpaceGrotesk-Light'), url('fonts/Space_Grotesk/SpaceGrotesk-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 300;
+  src: local('Space Grotesk Light'), local('SpaceGrotesk-Light'), url('fonts/Space_Grotesk/SpaceGrotesk-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 400;
+  src: local('Space Grotesk Regular'), local('SpaceGrotesk-Regular'), url('fonts/Space_Grotesk/SpaceGrotesk-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 700;
+  src: local('Space Grotesk Bold'), local('SpaceGrotesk-Bold'), url('fonts/Space_Grotesk/SpaceGrotesk-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 900;
+  src: local('Space Grotesk Black'), local('SpaceGrotesk-Bold'), url('fonts/Space_Grotesk/SpaceGrotesk-Bold.ttf') format('truetype');
+}
+
 /* Lato Font */
 @font-face {
   font-family: 'Lato';
